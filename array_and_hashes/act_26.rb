@@ -4,5 +4,5 @@ numbers = { one: 1,
 }
 
 numbers.each do |key,value|
-  p value
+  p key
 end

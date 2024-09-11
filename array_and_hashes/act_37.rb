@@ -51,4 +51,4 @@ students = {
   },
 }
 
-p ("#{students[:student10][:name]}")
+p students[:student10][:name]

@@ -2,4 +2,4 @@ fruits = { red: ["apple", "cherry"],
            yellow: ["banana", "lemon"]
 }
 
-p ("#{fruits[:red][1]}")
+p fruits[:red][1]

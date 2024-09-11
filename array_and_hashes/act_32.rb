@@ -7,4 +7,4 @@ cars = {
   }
 }
 
-p ("#{cars[:car1][:model]}")
+p cars[:car1][:model]

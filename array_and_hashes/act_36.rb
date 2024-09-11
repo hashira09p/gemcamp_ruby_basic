@@ -6,4 +6,4 @@ stores ={
   }
 }
 
-p ("#{stores[:store_2][:products][1]}")
+p stores[:store_2][:products][1]

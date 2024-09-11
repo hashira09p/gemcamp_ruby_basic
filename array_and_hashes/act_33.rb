@@ -7,4 +7,4 @@ teams = {
   }
 }
 
-p ("#{teams[:team_b][:player_2]}")
+p teams[:team_b][:player_2]

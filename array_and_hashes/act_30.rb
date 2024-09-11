@@ -8,5 +8,5 @@ countries = {
 }
 
 countries.each do |key,value|
-  p ("#{value[:capital]}")
+  p value[:capital]
 end

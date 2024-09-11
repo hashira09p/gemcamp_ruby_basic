@@ -9,4 +9,4 @@ students = {
   }
 }
 
-p ("#{students[:student2][:english]}")
+p students[:student2][:english]

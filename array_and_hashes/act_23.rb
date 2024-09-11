@@ -3,4 +3,4 @@ books = {
   naruto: "masashi"
 }
 
-p ("#{books[:naruto]}")
+p books[:naruto]

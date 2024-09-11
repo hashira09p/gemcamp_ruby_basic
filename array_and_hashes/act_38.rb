@@ -9,11 +9,4 @@ my_birthday = numbers[0][1],numbers[3][1],numbers[3][1],
 
 my_birthday = my_birthday.join
 
-# year = numbers[0][1],numbers[3][1],numbers[3][1],numbers[3][1]
-# year = [*year].join
-#
-# date =
-# date = [*date].join
-#
-# month = numbers[1][0],
 p (my_birthday)

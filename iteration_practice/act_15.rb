@@ -1,5 +1,5 @@
 colors = ["red", "blue", "yellow"]
 
-for color in colors
-  p color
+colors.each do |element|
+  p element
 end

@@ -1,5 +1,3 @@
 numbers = [1, 2, 3, 4, 5]
 
-for number in numbers
-  p number + 2
-end
+numbers.each { |element|  p element + 2}
